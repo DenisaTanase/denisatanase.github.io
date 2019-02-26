@@ -1,10 +1,10 @@
 <h1 align="center"> Metode de dezvoltare software </h1>
 <br>
-<h3>Grupele 353 si 354 </h3>
+<h3 align="center">Grupele 353 si 354 </h3>
 
 Tanase Denisa - denisatanase@gmail.com 
 
-<br><br>
+<br>
 
 <h2 align="center">Proiect - 3 puncte</h2>
 <a href="https://docs.google.com/spreadsheets/d/1amgYh-Q6Iunb-her7gZtfMPpSmxns3Ks5wXu2-VLEN8/edit?usp=sharing">Echipe</a>
@@ -37,6 +37,7 @@ Prezentarile intermediare si finale au loc in cadrul seminarului.
 <h2 align="center">Prezenta si Activitate Laborator - 1 punct</h2>
 <a href="https://docs.google.com/spreadsheets/d/1PomMMi2i74YGPDtbK-BBCOomrNxRfWrVK7qwsRqNfgE/edit?usp=sharing">Prezenta</a>
 
+<br>
 
 <h2 align="center"> Bonus - Documentatie proiect - 1 punct</h2>
 <a href="https://docs.google.com/document/d/1JU702EZb6_U6X5u_2mjBPM_SfmAbbVh7FW-hktA-q2A/edit?usp=sharing">Continut documentatie</a>
