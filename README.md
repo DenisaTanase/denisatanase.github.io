@@ -45,7 +45,11 @@ Prezentarile intermediare si finale au loc in cadrul seminarului.
 <br>
 <h2 align="center">Laborator</h2>
 
-<a href="https://drive.google.com/open?id=1PQiNpw6a8_aB5MhDIzPYmEMAom_LBfRJ">MVC - Entity Framework Tutorial</a>
+<a href="https://drive.google.com/file/d/1rNdDbqfToKVifmCQ0zmIstF5WbkBAhf9/view?usp=sharing">MVC - Entity Framework Tutorial</a>
+
+
+<a href="https://github.com/DenisaTanase/ContosoUniversity">Laboratorul 1 </a>
+
 <br>
 <h5>Eroare la conexiunea cu baza de date in proiectul de MVC<h5>
 In Web config, trebuie modificat String-ul de conexiune:
