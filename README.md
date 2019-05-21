@@ -11,7 +11,9 @@ Tanase Denisa - denisatanase@gmail.com
 
 <h2 align="center">Proiect - 3 puncte</h2>
 1.5p - MVC
+<br>
 0.5p - deploy 
+<br>
 1p - dificultate/servicii/implicare/impresie artistica/...
 
 
@@ -35,7 +37,7 @@ Prezentarile intermediare si finale au loc in cadrul seminarului.
 
 <h2 align="center"> Bonus - Documentatie proiect - 1 punct</h2>
 <a href="https://docs.google.com/document/d/1JU702EZb6_U6X5u_2mjBPM_SfmAbbVh7FW-hktA-q2A/edit?usp=sharing">Continut documentatie</a>
-Documentatia se face individual, se prezinta in cadrul ultimului seminar si se trimite pe mail (denisatanase@gmail.com) cu cel putin o zi inainte de prezentare. 
+Documentatia se face individual, se prezinta in cadrul ultimului seminar(cand se prezinta proiectul final) si se trimite pe mail (denisatanase@gmail.com) cu cel putin o zi inainte de prezentare. 
 
 <br>
 <h2 align="center">Laborator</h2>
@@ -45,11 +47,25 @@ Documentatia se face individual, se prezinta in cadrul ultimului seminar si se t
 <a href="https://github.com/DenisaTanase/ContosoUniversity">Proiect ContosoUniversity </a>
 
 <a href="https://docs.microsoft.com/en-us/dotnet/framework/wcf/whats-wcf"> WCF</a>
+
+
 <a href="https://drive.google.com/file/d/1Ky8Cwe-Tjgbpji2fy_K9Dkme4qN78xyY/view?usp=sharing"> Rezumat servicii</a>
+
+
 <a href="https://www.codeproject.com/Articles/866143/Learn-MVC-Project-in-days-Day"> Tutorial MVC</a>
+
+
 <a href="https://www.tutorialspoint.com/asp.net_mvc/">Altul</a>
+
+
+
 <a href="https://guides.github.com/activities/hello-world/">Github</a>
+
+
+
 <a href="https://trello.com/">Trello</a>
+
+
 Carti de citit daca aveti ocazia: Clean Code, eXtreme Programming - explained, Object Thinking
 
 
