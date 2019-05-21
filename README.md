@@ -48,6 +48,8 @@ Documentatia se face individual, se prezinta in cadrul ultimului seminar si se t
 <a href="https://drive.google.com/file/d/1Ky8Cwe-Tjgbpji2fy_K9Dkme4qN78xyY/view?usp=sharing"> Rezumat servicii</a>
 <a href="https://www.codeproject.com/Articles/866143/Learn-MVC-Project-in-days-Day"> Tutorial MVC</a>
 <a href="https://www.tutorialspoint.com/asp.net_mvc/">Altul</a>
+<a href="https://guides.github.com/activities/hello-world/">Github</a>
+<a href="https://trello.com/">Trello</a>
 Carti de citit daca aveti ocazia: Clean Code, eXtreme Programming - explained, Object Thinking
 
 
